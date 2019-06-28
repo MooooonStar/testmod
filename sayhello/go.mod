@@ -1,3 +1,3 @@
-module github.com/MooooonStar/sayhello
+module github.com/MooooonStar/testmod/sayhello
 
 go 1.12
